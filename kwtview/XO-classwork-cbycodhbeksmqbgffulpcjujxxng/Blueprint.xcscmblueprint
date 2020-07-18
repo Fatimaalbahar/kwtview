@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A66E22486020B0BFD718D208D20074301CBB28B3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA424DF4-1026-4075-8EA7-EDB710B4B944",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A66E22486020B0BFD718D208D20074301CBB28B3" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XO-classwork",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XO-classwork.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fatimaalbahar\/ios-cw-5.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A66E22486020B0BFD718D208D20074301CBB28B3"
+    }
+  ]
+}

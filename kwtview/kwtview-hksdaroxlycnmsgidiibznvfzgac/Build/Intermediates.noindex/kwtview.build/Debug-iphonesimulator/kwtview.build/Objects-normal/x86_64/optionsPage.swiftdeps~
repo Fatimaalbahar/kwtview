@@ -1,0 +1,360 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "optionsPage"
+provides-nominal:
+- "7kwtview11optionsPageC"
+provides-member:
+- ["7kwtview11optionsPageC", ""]
+provides-dynamic-lookup:
+- "beautysalonimages"
+- "cafeimages"
+- "gymsimages"
+- "hotelsandresortsimages"
+- "localshopsimages"
+- "restaurantimages"
+- "shoppingmallsimages"
+- "touristattractionimages"
+depends-top-level:
+- "UITableViewCell"
+- "beautysalonsData"
+- "cafeData"
+- "gymsData"
+- "hotelsandresortsData"
+- "localshopsData"
+- "optionsPage"
+- "restaurantsData"
+- "shoppingmallsData"
+- "touristattractionData"
+depends-member:
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "beautysalonsData"]
+- ["So15CALayerDelegateP", "cafeData"]
+- ["So15CALayerDelegateP", "gymsData"]
+- ["So15CALayerDelegateP", "hotelsandresortsData"]
+- ["So15CALayerDelegateP", "localshopsData"]
+- ["So15CALayerDelegateP", "restaurantsData"]
+- ["So15CALayerDelegateP", "shoppingmallsData"]
+- ["So15CALayerDelegateP", "touristattractionData"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "beautysalonsData"]
+- ["s7CVarArgP", "cafeData"]
+- ["s7CVarArgP", "gymsData"]
+- ["s7CVarArgP", "hotelsandresortsData"]
+- ["s7CVarArgP", "localshopsData"]
+- ["s7CVarArgP", "restaurantsData"]
+- ["s7CVarArgP", "shoppingmallsData"]
+- ["s7CVarArgP", "touristattractionData"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "beautysalonsData"]
+- ["s28CustomDebugStringConvertibleP", "cafeData"]
+- ["s28CustomDebugStringConvertibleP", "gymsData"]
+- ["s28CustomDebugStringConvertibleP", "hotelsandresortsData"]
+- ["s28CustomDebugStringConvertibleP", "localshopsData"]
+- ["s28CustomDebugStringConvertibleP", "restaurantsData"]
+- ["s28CustomDebugStringConvertibleP", "shoppingmallsData"]
+- ["s28CustomDebugStringConvertibleP", "touristattractionData"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "beautysalonsData"]
+- ["s23CustomStringConvertibleP", "cafeData"]
+- ["s23CustomStringConvertibleP", "gymsData"]
+- ["s23CustomStringConvertibleP", "hotelsandresortsData"]
+- ["s23CustomStringConvertibleP", "localshopsData"]
+- ["s23CustomStringConvertibleP", "restaurantsData"]
+- ["s23CustomStringConvertibleP", "shoppingmallsData"]
+- ["s23CustomStringConvertibleP", "touristattractionData"]
+- ["SQ", ""]
+- ["SQ", "beautysalonsData"]
+- ["SQ", "cafeData"]
+- ["SQ", "gymsData"]
+- ["SQ", "hotelsandresortsData"]
+- ["SQ", "localshopsData"]
+- ["SQ", "restaurantsData"]
+- ["SQ", "shoppingmallsData"]
+- ["SQ", "touristattractionData"]
+- ["SH", ""]
+- ["SH", "beautysalonsData"]
+- ["SH", "cafeData"]
+- ["SH", "gymsData"]
+- ["SH", "hotelsandresortsData"]
+- ["SH", "localshopsData"]
+- ["SH", "restaurantsData"]
+- ["SH", "shoppingmallsData"]
+- ["SH", "touristattractionData"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "beautysalonsData"]
+- ["So8NSCodingP", "cafeData"]
+- ["So8NSCodingP", "gymsData"]
+- ["So8NSCodingP", "hotelsandresortsData"]
+- ["So8NSCodingP", "localshopsData"]
+- ["So8NSCodingP", "restaurantsData"]
+- ["So8NSCodingP", "shoppingmallsData"]
+- ["So8NSCodingP", "touristattractionData"]
+- ["So8NSObjectC", "beautysalonsData"]
+- ["So8NSObjectC", "cafeData"]
+- ["So8NSObjectC", "gymsData"]
+- ["So8NSObjectC", "hotelsandresortsData"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "localshopsData"]
+- ["So8NSObjectC", "restaurantsData"]
+- ["So8NSObjectC", "shoppingmallsData"]
+- ["So8NSObjectC", "touristattractionData"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "beautysalonsData"]
+- ["So8NSObjectP", "cafeData"]
+- ["So8NSObjectP", "gymsData"]
+- ["So8NSObjectP", "hotelsandresortsData"]
+- ["So8NSObjectP", "localshopsData"]
+- ["So8NSObjectP", "restaurantsData"]
+- ["So8NSObjectP", "shoppingmallsData"]
+- ["So8NSObjectP", "touristattractionData"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "beautysalonsData"]
+- ["So29UIAccessibilityIdentificationP", "cafeData"]
+- ["So29UIAccessibilityIdentificationP", "gymsData"]
+- ["So29UIAccessibilityIdentificationP", "hotelsandresortsData"]
+- ["So29UIAccessibilityIdentificationP", "localshopsData"]
+- ["So29UIAccessibilityIdentificationP", "restaurantsData"]
+- ["So29UIAccessibilityIdentificationP", "shoppingmallsData"]
+- ["So29UIAccessibilityIdentificationP", "touristattractionData"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "beautysalonsData"]
+- ["So12UIAppearanceP", "cafeData"]
+- ["So12UIAppearanceP", "gymsData"]
+- ["So12UIAppearanceP", "hotelsandresortsData"]
+- ["So12UIAppearanceP", "localshopsData"]
+- ["So12UIAppearanceP", "restaurantsData"]
+- ["So12UIAppearanceP", "shoppingmallsData"]
+- ["So12UIAppearanceP", "touristattractionData"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "beautysalonsData"]
+- ["So21UIAppearanceContainerP", "cafeData"]
+- ["So21UIAppearanceContainerP", "gymsData"]
+- ["So21UIAppearanceContainerP", "hotelsandresortsData"]
+- ["So21UIAppearanceContainerP", "localshopsData"]
+- ["So21UIAppearanceContainerP", "restaurantsData"]
+- ["So21UIAppearanceContainerP", "shoppingmallsData"]
+- ["So21UIAppearanceContainerP", "touristattractionData"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "beautysalonsData"]
+- ["So17UICoordinateSpaceP", "cafeData"]
+- ["So17UICoordinateSpaceP", "gymsData"]
+- ["So17UICoordinateSpaceP", "hotelsandresortsData"]
+- ["So17UICoordinateSpaceP", "localshopsData"]
+- ["So17UICoordinateSpaceP", "restaurantsData"]
+- ["So17UICoordinateSpaceP", "shoppingmallsData"]
+- ["So17UICoordinateSpaceP", "touristattractionData"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "beautysalonsData"]
+- ["So13UIDynamicItemP", "cafeData"]
+- ["So13UIDynamicItemP", "gymsData"]
+- ["So13UIDynamicItemP", "hotelsandresortsData"]
+- ["So13UIDynamicItemP", "localshopsData"]
+- ["So13UIDynamicItemP", "restaurantsData"]
+- ["So13UIDynamicItemP", "shoppingmallsData"]
+- ["So13UIDynamicItemP", "touristattractionData"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "beautysalonsData"]
+- ["So18UIFocusEnvironmentP", "cafeData"]
+- ["So18UIFocusEnvironmentP", "gymsData"]
+- ["So18UIFocusEnvironmentP", "hotelsandresortsData"]
+- ["So18UIFocusEnvironmentP", "localshopsData"]
+- ["So18UIFocusEnvironmentP", "restaurantsData"]
+- ["So18UIFocusEnvironmentP", "shoppingmallsData"]
+- ["So18UIFocusEnvironmentP", "touristattractionData"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "beautysalonsData"]
+- ["So11UIFocusItemP", "cafeData"]
+- ["So11UIFocusItemP", "gymsData"]
+- ["So11UIFocusItemP", "hotelsandresortsData"]
+- ["So11UIFocusItemP", "localshopsData"]
+- ["So11UIFocusItemP", "restaurantsData"]
+- ["So11UIFocusItemP", "shoppingmallsData"]
+- ["So11UIFocusItemP", "touristattractionData"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "beautysalonsData"]
+- ["So20UIFocusItemContainerP", "cafeData"]
+- ["So20UIFocusItemContainerP", "gymsData"]
+- ["So20UIFocusItemContainerP", "hotelsandresortsData"]
+- ["So20UIFocusItemContainerP", "localshopsData"]
+- ["So20UIFocusItemContainerP", "restaurantsData"]
+- ["So20UIFocusItemContainerP", "shoppingmallsData"]
+- ["So20UIFocusItemContainerP", "touristattractionData"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- ["So27UIGestureRecognizerDelegateP", "beautysalonsData"]
+- ["So27UIGestureRecognizerDelegateP", "cafeData"]
+- ["So27UIGestureRecognizerDelegateP", "gymsData"]
+- ["So27UIGestureRecognizerDelegateP", "hotelsandresortsData"]
+- ["So27UIGestureRecognizerDelegateP", "localshopsData"]
+- ["So27UIGestureRecognizerDelegateP", "restaurantsData"]
+- ["So27UIGestureRecognizerDelegateP", "shoppingmallsData"]
+- ["So27UIGestureRecognizerDelegateP", "touristattractionData"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "beautysalonsData"]
+- ["So24UILargeContentViewerItemP", "cafeData"]
+- ["So24UILargeContentViewerItemP", "gymsData"]
+- ["So24UILargeContentViewerItemP", "hotelsandresortsData"]
+- ["So24UILargeContentViewerItemP", "localshopsData"]
+- ["So24UILargeContentViewerItemP", "restaurantsData"]
+- ["So24UILargeContentViewerItemP", "shoppingmallsData"]
+- ["So24UILargeContentViewerItemP", "touristattractionData"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "beautysalonsData"]
+- ["So30UIPasteConfigurationSupportingP", "cafeData"]
+- ["So30UIPasteConfigurationSupportingP", "gymsData"]
+- ["So30UIPasteConfigurationSupportingP", "hotelsandresortsData"]
+- ["So30UIPasteConfigurationSupportingP", "localshopsData"]
+- ["So30UIPasteConfigurationSupportingP", "restaurantsData"]
+- ["So30UIPasteConfigurationSupportingP", "shoppingmallsData"]
+- ["So30UIPasteConfigurationSupportingP", "touristattractionData"]
+- ["So11UIResponderC", "beautysalonsData"]
+- ["So11UIResponderC", "cafeData"]
+- ["So11UIResponderC", "gymsData"]
+- ["So11UIResponderC", "hotelsandresortsData"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "localshopsData"]
+- ["So11UIResponderC", "restaurantsData"]
+- ["So11UIResponderC", "shoppingmallsData"]
+- ["So11UIResponderC", "touristattractionData"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "beautysalonsData"]
+- ["So30UIResponderStandardEditActionsP", "cafeData"]
+- ["So30UIResponderStandardEditActionsP", "gymsData"]
+- ["So30UIResponderStandardEditActionsP", "hotelsandresortsData"]
+- ["So30UIResponderStandardEditActionsP", "localshopsData"]
+- ["So30UIResponderStandardEditActionsP", "restaurantsData"]
+- ["So30UIResponderStandardEditActionsP", "shoppingmallsData"]
+- ["So30UIResponderStandardEditActionsP", "touristattractionData"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "beautysalonsData"]
+- ["So15UITableViewCellC", "cafeData"]
+- ["So15UITableViewCellC", "gymsData"]
+- ["So15UITableViewCellC", "hotelsandresortsData"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "localshopsData"]
+- ["So15UITableViewCellC", "restaurantsData"]
+- ["So15UITableViewCellC", "shoppingmallsData"]
+- ["So15UITableViewCellC", "touristattractionData"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "beautysalonsData"]
+- ["So18UITraitEnvironmentP", "cafeData"]
+- ["So18UITraitEnvironmentP", "gymsData"]
+- ["So18UITraitEnvironmentP", "hotelsandresortsData"]
+- ["So18UITraitEnvironmentP", "localshopsData"]
+- ["So18UITraitEnvironmentP", "restaurantsData"]
+- ["So18UITraitEnvironmentP", "shoppingmallsData"]
+- ["So18UITraitEnvironmentP", "touristattractionData"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "beautysalonsData"]
+- ["So23UIUserActivityRestoringP", "cafeData"]
+- ["So23UIUserActivityRestoringP", "gymsData"]
+- ["So23UIUserActivityRestoringP", "hotelsandresortsData"]
+- ["So23UIUserActivityRestoringP", "localshopsData"]
+- ["So23UIUserActivityRestoringP", "restaurantsData"]
+- ["So23UIUserActivityRestoringP", "shoppingmallsData"]
+- ["So23UIUserActivityRestoringP", "touristattractionData"]
+- ["So6UIViewC", "beautysalonsData"]
+- ["So6UIViewC", "cafeData"]
+- ["So6UIViewC", "gymsData"]
+- ["So6UIViewC", "hotelsandresortsData"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "localshopsData"]
+- ["So6UIViewC", "restaurantsData"]
+- ["So6UIViewC", "shoppingmallsData"]
+- ["So6UIViewC", "touristattractionData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "beautysalonsData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "cafeData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "gymsData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "hotelsandresortsData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "localshopsData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "restaurantsData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "shoppingmallsData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "touristattractionData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "beautysalonsData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cafeData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "gymsData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hotelsandresortsData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "localshopsData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "restaurantsData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shoppingmallsData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "touristattractionData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "beautysalonsData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "cafeData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "gymsData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "hotelsandresortsData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "localshopsData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "restaurantsData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "shoppingmallsData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "touristattractionData"]
+- ["7kwtview11optionsPageC", "beautysalonsData"]
+- ["7kwtview11optionsPageC", "cafeData"]
+- ["7kwtview11optionsPageC", "deinit"]
+- ["7kwtview11optionsPageC", "gymsData"]
+- ["7kwtview11optionsPageC", "hotelsandresortsData"]
+- ["7kwtview11optionsPageC", "init"]
+- ["7kwtview11optionsPageC", "localshopsData"]
+- ["7kwtview11optionsPageC", "restaurantsData"]
+- ["7kwtview11optionsPageC", "shoppingmallsData"]
+- ["7kwtview11optionsPageC", "touristattractionData"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+- "7kwtview11optionsPageC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "69d8bcb5392621c214f450b44a451c22"
