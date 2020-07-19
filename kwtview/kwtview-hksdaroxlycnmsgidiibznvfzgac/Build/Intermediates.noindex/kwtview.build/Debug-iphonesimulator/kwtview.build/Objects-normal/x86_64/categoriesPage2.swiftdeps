@@ -1,0 +1,412 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "selected"
+- "categoriesPage2"
+provides-nominal:
+- "7kwtview15categoriesPage2C"
+provides-member:
+- ["7kwtview15categoriesPage2C", ""]
+provides-dynamic-lookup:
+- "Activities"
+- "BeautySalons"
+- "Cafes"
+- "Gyms"
+- "HotelsandResorts"
+- "LocalShops"
+- "Restaurants"
+- "ShoppingMalls"
+- "TouristAttractions"
+- "viewDidLoad"
+depends-top-level:
+- !private "Activities1"
+- "AssignmentPrecedence"
+- !private "BeautySalons1"
+- !private "Cafes1"
+- !private "Gyms1"
+- !private "HotelsandResorts1"
+- !private "LocalShops1"
+- !private "ShoppingMalls1"
+- !private "StringLiteralType"
+- !private "TouristAttractions1"
+- "UIButton"
+- "UIViewController"
+- "categoriesPage2"
+- "categoryChosen1"
+- "selected"
+depends-member:
+- !private ["s7CVarArgP", "Activities1"]
+- !private ["s7CVarArgP", "BeautySalons1"]
+- !private ["s7CVarArgP", "Cafes1"]
+- !private ["s7CVarArgP", "Gyms1"]
+- !private ["s7CVarArgP", "HotelsandResorts1"]
+- !private ["s7CVarArgP", "LocalShops1"]
+- !private ["s7CVarArgP", "Restaurants"]
+- !private ["s7CVarArgP", "ShoppingMalls1"]
+- !private ["s7CVarArgP", "TouristAttractions1"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "selected"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "Activities1"]
+- !private ["s28CustomDebugStringConvertibleP", "BeautySalons1"]
+- !private ["s28CustomDebugStringConvertibleP", "Cafes1"]
+- !private ["s28CustomDebugStringConvertibleP", "Gyms1"]
+- !private ["s28CustomDebugStringConvertibleP", "HotelsandResorts1"]
+- !private ["s28CustomDebugStringConvertibleP", "LocalShops1"]
+- !private ["s28CustomDebugStringConvertibleP", "Restaurants"]
+- !private ["s28CustomDebugStringConvertibleP", "ShoppingMalls1"]
+- !private ["s28CustomDebugStringConvertibleP", "TouristAttractions1"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "selected"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "Activities1"]
+- !private ["s23CustomStringConvertibleP", "BeautySalons1"]
+- !private ["s23CustomStringConvertibleP", "Cafes1"]
+- !private ["s23CustomStringConvertibleP", "Gyms1"]
+- !private ["s23CustomStringConvertibleP", "HotelsandResorts1"]
+- !private ["s23CustomStringConvertibleP", "LocalShops1"]
+- !private ["s23CustomStringConvertibleP", "Restaurants"]
+- !private ["s23CustomStringConvertibleP", "ShoppingMalls1"]
+- !private ["s23CustomStringConvertibleP", "TouristAttractions1"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "selected"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["SQ", "Activities1"]
+- !private ["SQ", "BeautySalons1"]
+- !private ["SQ", "Cafes1"]
+- !private ["SQ", "Gyms1"]
+- !private ["SQ", "HotelsandResorts1"]
+- !private ["SQ", "LocalShops1"]
+- !private ["SQ", "Restaurants"]
+- !private ["SQ", "ShoppingMalls1"]
+- !private ["SQ", "TouristAttractions1"]
+- ["SQ", ""]
+- !private ["SQ", "performSegue"]
+- !private ["SQ", "selected"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SH", "Activities1"]
+- !private ["SH", "BeautySalons1"]
+- !private ["SH", "Cafes1"]
+- !private ["SH", "Gyms1"]
+- !private ["SH", "HotelsandResorts1"]
+- !private ["SH", "LocalShops1"]
+- !private ["SH", "Restaurants"]
+- !private ["SH", "ShoppingMalls1"]
+- !private ["SH", "TouristAttractions1"]
+- ["SH", ""]
+- !private ["SH", "performSegue"]
+- !private ["SH", "selected"]
+- !private ["SH", "viewDidLoad"]
+- !private ["So8NSCodingP", "Activities1"]
+- !private ["So8NSCodingP", "BeautySalons1"]
+- !private ["So8NSCodingP", "Cafes1"]
+- !private ["So8NSCodingP", "Gyms1"]
+- !private ["So8NSCodingP", "HotelsandResorts1"]
+- !private ["So8NSCodingP", "LocalShops1"]
+- !private ["So8NSCodingP", "Restaurants"]
+- !private ["So8NSCodingP", "ShoppingMalls1"]
+- !private ["So8NSCodingP", "TouristAttractions1"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "selected"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Activities1"]
+- !private ["So26NSExtensionRequestHandlingP", "BeautySalons1"]
+- !private ["So26NSExtensionRequestHandlingP", "Cafes1"]
+- !private ["So26NSExtensionRequestHandlingP", "Gyms1"]
+- !private ["So26NSExtensionRequestHandlingP", "HotelsandResorts1"]
+- !private ["So26NSExtensionRequestHandlingP", "LocalShops1"]
+- !private ["So26NSExtensionRequestHandlingP", "Restaurants"]
+- !private ["So26NSExtensionRequestHandlingP", "ShoppingMalls1"]
+- !private ["So26NSExtensionRequestHandlingP", "TouristAttractions1"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "selected"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Activities"]
+- !private ["So8NSObjectC", "Activities1"]
+- ["So8NSObjectC", "BeautySalons"]
+- !private ["So8NSObjectC", "BeautySalons1"]
+- ["So8NSObjectC", "Cafes"]
+- !private ["So8NSObjectC", "Cafes1"]
+- ["So8NSObjectC", "Gyms"]
+- !private ["So8NSObjectC", "Gyms1"]
+- ["So8NSObjectC", "HotelsandResorts"]
+- !private ["So8NSObjectC", "HotelsandResorts1"]
+- ["So8NSObjectC", "LocalShops"]
+- !private ["So8NSObjectC", "LocalShops1"]
+- ["So8NSObjectC", "Restaurants"]
+- ["So8NSObjectC", "ShoppingMalls"]
+- !private ["So8NSObjectC", "ShoppingMalls1"]
+- ["So8NSObjectC", "TouristAttractions"]
+- !private ["So8NSObjectC", "TouristAttractions1"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "performSegue"]
+- !private ["So8NSObjectC", "selected"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Activities1"]
+- !private ["So8NSObjectP", "BeautySalons1"]
+- !private ["So8NSObjectP", "Cafes1"]
+- !private ["So8NSObjectP", "Gyms1"]
+- !private ["So8NSObjectP", "HotelsandResorts1"]
+- !private ["So8NSObjectP", "LocalShops1"]
+- !private ["So8NSObjectP", "Restaurants"]
+- !private ["So8NSObjectP", "ShoppingMalls1"]
+- !private ["So8NSObjectP", "TouristAttractions1"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "performSegue"]
+- !private ["So8NSObjectP", "selected"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "Activities1"]
+- !private ["So21UIAppearanceContainerP", "BeautySalons1"]
+- !private ["So21UIAppearanceContainerP", "Cafes1"]
+- !private ["So21UIAppearanceContainerP", "Gyms1"]
+- !private ["So21UIAppearanceContainerP", "HotelsandResorts1"]
+- !private ["So21UIAppearanceContainerP", "LocalShops1"]
+- !private ["So21UIAppearanceContainerP", "Restaurants"]
+- !private ["So21UIAppearanceContainerP", "ShoppingMalls1"]
+- !private ["So21UIAppearanceContainerP", "TouristAttractions1"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "selected"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Activities1"]
+- !private ["So18UIContentContainerP", "BeautySalons1"]
+- !private ["So18UIContentContainerP", "Cafes1"]
+- !private ["So18UIContentContainerP", "Gyms1"]
+- !private ["So18UIContentContainerP", "HotelsandResorts1"]
+- !private ["So18UIContentContainerP", "LocalShops1"]
+- !private ["So18UIContentContainerP", "Restaurants"]
+- !private ["So18UIContentContainerP", "ShoppingMalls1"]
+- !private ["So18UIContentContainerP", "TouristAttractions1"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "selected"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "Activities1"]
+- !private ["So18UIFocusEnvironmentP", "BeautySalons1"]
+- !private ["So18UIFocusEnvironmentP", "Cafes1"]
+- !private ["So18UIFocusEnvironmentP", "Gyms1"]
+- !private ["So18UIFocusEnvironmentP", "HotelsandResorts1"]
+- !private ["So18UIFocusEnvironmentP", "LocalShops1"]
+- !private ["So18UIFocusEnvironmentP", "Restaurants"]
+- !private ["So18UIFocusEnvironmentP", "ShoppingMalls1"]
+- !private ["So18UIFocusEnvironmentP", "TouristAttractions1"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "selected"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "Activities1"]
+- !private ["So30UIPasteConfigurationSupportingP", "BeautySalons1"]
+- !private ["So30UIPasteConfigurationSupportingP", "Cafes1"]
+- !private ["So30UIPasteConfigurationSupportingP", "Gyms1"]
+- !private ["So30UIPasteConfigurationSupportingP", "HotelsandResorts1"]
+- !private ["So30UIPasteConfigurationSupportingP", "LocalShops1"]
+- !private ["So30UIPasteConfigurationSupportingP", "Restaurants"]
+- !private ["So30UIPasteConfigurationSupportingP", "ShoppingMalls1"]
+- !private ["So30UIPasteConfigurationSupportingP", "TouristAttractions1"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "selected"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Activities"]
+- !private ["So11UIResponderC", "Activities1"]
+- ["So11UIResponderC", "BeautySalons"]
+- !private ["So11UIResponderC", "BeautySalons1"]
+- ["So11UIResponderC", "Cafes"]
+- !private ["So11UIResponderC", "Cafes1"]
+- ["So11UIResponderC", "Gyms"]
+- !private ["So11UIResponderC", "Gyms1"]
+- ["So11UIResponderC", "HotelsandResorts"]
+- !private ["So11UIResponderC", "HotelsandResorts1"]
+- ["So11UIResponderC", "LocalShops"]
+- !private ["So11UIResponderC", "LocalShops1"]
+- ["So11UIResponderC", "Restaurants"]
+- ["So11UIResponderC", "ShoppingMalls"]
+- !private ["So11UIResponderC", "ShoppingMalls1"]
+- ["So11UIResponderC", "TouristAttractions"]
+- !private ["So11UIResponderC", "TouristAttractions1"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "performSegue"]
+- !private ["So11UIResponderC", "selected"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Activities1"]
+- !private ["So30UIResponderStandardEditActionsP", "BeautySalons1"]
+- !private ["So30UIResponderStandardEditActionsP", "Cafes1"]
+- !private ["So30UIResponderStandardEditActionsP", "Gyms1"]
+- !private ["So30UIResponderStandardEditActionsP", "HotelsandResorts1"]
+- !private ["So30UIResponderStandardEditActionsP", "LocalShops1"]
+- !private ["So30UIResponderStandardEditActionsP", "Restaurants"]
+- !private ["So30UIResponderStandardEditActionsP", "ShoppingMalls1"]
+- !private ["So30UIResponderStandardEditActionsP", "TouristAttractions1"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "selected"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Activities1"]
+- !private ["So16UIStateRestoringP", "BeautySalons1"]
+- !private ["So16UIStateRestoringP", "Cafes1"]
+- !private ["So16UIStateRestoringP", "Gyms1"]
+- !private ["So16UIStateRestoringP", "HotelsandResorts1"]
+- !private ["So16UIStateRestoringP", "LocalShops1"]
+- !private ["So16UIStateRestoringP", "Restaurants"]
+- !private ["So16UIStateRestoringP", "ShoppingMalls1"]
+- !private ["So16UIStateRestoringP", "TouristAttractions1"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "selected"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Activities1"]
+- !private ["So18UITraitEnvironmentP", "BeautySalons1"]
+- !private ["So18UITraitEnvironmentP", "Cafes1"]
+- !private ["So18UITraitEnvironmentP", "Gyms1"]
+- !private ["So18UITraitEnvironmentP", "HotelsandResorts1"]
+- !private ["So18UITraitEnvironmentP", "LocalShops1"]
+- !private ["So18UITraitEnvironmentP", "Restaurants"]
+- !private ["So18UITraitEnvironmentP", "ShoppingMalls1"]
+- !private ["So18UITraitEnvironmentP", "TouristAttractions1"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "selected"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Activities1"]
+- !private ["So23UIUserActivityRestoringP", "BeautySalons1"]
+- !private ["So23UIUserActivityRestoringP", "Cafes1"]
+- !private ["So23UIUserActivityRestoringP", "Gyms1"]
+- !private ["So23UIUserActivityRestoringP", "HotelsandResorts1"]
+- !private ["So23UIUserActivityRestoringP", "LocalShops1"]
+- !private ["So23UIUserActivityRestoringP", "Restaurants"]
+- !private ["So23UIUserActivityRestoringP", "ShoppingMalls1"]
+- !private ["So23UIUserActivityRestoringP", "TouristAttractions1"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "performSegue"]
+- !private ["So23UIUserActivityRestoringP", "selected"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So16UIViewControllerC", "Activities"]
+- !private ["So16UIViewControllerC", "Activities1"]
+- ["So16UIViewControllerC", "BeautySalons"]
+- !private ["So16UIViewControllerC", "BeautySalons1"]
+- ["So16UIViewControllerC", "Cafes"]
+- !private ["So16UIViewControllerC", "Cafes1"]
+- ["So16UIViewControllerC", "Gyms"]
+- !private ["So16UIViewControllerC", "Gyms1"]
+- ["So16UIViewControllerC", "HotelsandResorts"]
+- !private ["So16UIViewControllerC", "HotelsandResorts1"]
+- ["So16UIViewControllerC", "LocalShops"]
+- !private ["So16UIViewControllerC", "LocalShops1"]
+- ["So16UIViewControllerC", "Restaurants"]
+- ["So16UIViewControllerC", "ShoppingMalls"]
+- !private ["So16UIViewControllerC", "ShoppingMalls1"]
+- ["So16UIViewControllerC", "TouristAttractions"]
+- !private ["So16UIViewControllerC", "TouristAttractions1"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- !private ["So16UIViewControllerC", "selected"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Activities1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "BeautySalons1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Cafes1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Gyms1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HotelsandResorts1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "LocalShops1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Restaurants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ShoppingMalls1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TouristAttractions1"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Activities1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "BeautySalons1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Cafes1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Gyms1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HotelsandResorts1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LocalShops1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Restaurants"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ShoppingMalls1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TouristAttractions1"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "performSegue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "selected"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- ["7kwtview15categoriesPage2C", "Activities"]
+- !private ["7kwtview15categoriesPage2C", "Activities1"]
+- ["7kwtview15categoriesPage2C", "BeautySalons"]
+- !private ["7kwtview15categoriesPage2C", "BeautySalons1"]
+- ["7kwtview15categoriesPage2C", "Cafes"]
+- !private ["7kwtview15categoriesPage2C", "Cafes1"]
+- ["7kwtview15categoriesPage2C", "Gyms"]
+- !private ["7kwtview15categoriesPage2C", "Gyms1"]
+- ["7kwtview15categoriesPage2C", "HotelsandResorts"]
+- !private ["7kwtview15categoriesPage2C", "HotelsandResorts1"]
+- ["7kwtview15categoriesPage2C", "LocalShops"]
+- !private ["7kwtview15categoriesPage2C", "LocalShops1"]
+- ["7kwtview15categoriesPage2C", "Restaurants"]
+- ["7kwtview15categoriesPage2C", "ShoppingMalls"]
+- !private ["7kwtview15categoriesPage2C", "ShoppingMalls1"]
+- ["7kwtview15categoriesPage2C", "TouristAttractions"]
+- !private ["7kwtview15categoriesPage2C", "TouristAttractions1"]
+- ["7kwtview15categoriesPage2C", "UIButton"]
+- ["7kwtview15categoriesPage2C", "deinit"]
+- ["7kwtview15categoriesPage2C", "init"]
+- !private ["7kwtview15categoriesPage2C", "performSegue"]
+- !private ["7kwtview15categoriesPage2C", "selected"]
+- ["7kwtview15categoriesPage2C", "viewDidLoad"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "7kwtview15categoriesPage2C"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "060db7ba41801a64a43e82d08646a507"

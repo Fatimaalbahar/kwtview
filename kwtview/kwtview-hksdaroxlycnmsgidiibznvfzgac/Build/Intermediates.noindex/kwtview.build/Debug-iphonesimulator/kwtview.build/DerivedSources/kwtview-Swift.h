@@ -217,6 +217,28 @@ SWIFT_CLASS("_TtC7kwtview11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
+@class UIImageView;
+@class UIButton;
+@class NSBundle;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC7kwtview21OptionsViewController")
+@interface OptionsViewController : UIViewController
+- (void)viewDidLoad;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label1;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label0;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image0;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label3;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image3;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label2;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image2;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image1;
+- (IBAction)places:(UIButton * _Nonnull)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class UIWindow;
 @class UIScene;
 
@@ -232,8 +254,6 @@ SWIFT_CLASS("_TtC7kwtview13SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class NSBundle;
-@class NSCoder;
 
 SWIFT_CLASS("_TtC7kwtview14ViewController")
 @interface ViewController : UIViewController
@@ -243,20 +263,19 @@ SWIFT_CLASS("_TtC7kwtview14ViewController")
 @end
 
 
-SWIFT_CLASS("_TtC7kwtview14categoriesPage")
-@interface categoriesPage : UITableViewCell
-- (void)awakeFromNib;
-- (IBAction)restaurants:(id _Nonnull)sender;
-- (IBAction)cafes:(id _Nonnull)sender;
-- (IBAction)shoppingMalls:(id _Nonnull)sender;
-- (IBAction)touristAttractions:(id _Nonnull)sender;
-- (IBAction)beautySalons:(id _Nonnull)sender;
-- (IBAction)gyms:(id _Nonnull)sender;
-- (IBAction)hotelsAndResorts:(id _Nonnull)sender;
-- (IBAction)activities:(id _Nonnull)sender;
-- (IBAction)localShops:(id _Nonnull)sender;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
-- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
+SWIFT_CLASS("_TtC7kwtview15categoriesPage2")
+@interface categoriesPage2 : UIViewController
+- (void)viewDidLoad;
+- (IBAction)Restaurants:(UIButton * _Nonnull)sender;
+- (IBAction)Cafes:(UIButton * _Nonnull)sender;
+- (IBAction)ShoppingMalls:(UIButton * _Nonnull)sender;
+- (IBAction)TouristAttractions:(UIButton * _Nonnull)sender;
+- (IBAction)BeautySalons:(UIButton * _Nonnull)sender;
+- (IBAction)Gyms:(UIButton * _Nonnull)sender;
+- (IBAction)HotelsandResorts:(UIButton * _Nonnull)sender;
+- (IBAction)Activities:(UIButton * _Nonnull)sender;
+- (IBAction)LocalShops:(UIButton * _Nonnull)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 

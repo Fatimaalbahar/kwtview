@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>676208DB-5B6D-4DDE-927C-5D6570F13C33</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>676208DB-5B6D-4DDE-927C-5D6570F13C33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616884671.23319602</real>
+			<key>timeStoppedRecording</key>
+			<real>616885003.95694995</real>
+			<key>title</key>
+			<string>Run kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>676208DB-5B6D-4DDE-927C-5D6570F13C33</string>
+		</dict>
+		<key>D40BCAFC-D702-4001-BA48-63B67AD03D86</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D40BCAFC-D702-4001-BA48-63B67AD03D86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616884466.37205601</real>
+			<key>timeStoppedRecording</key>
+			<real>616884510.17744005</real>
+			<key>title</key>
+			<string>Run kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>D40BCAFC-D702-4001-BA48-63B67AD03D86</string>
+		</dict>
+		<key>DE7747D8-BC4F-4945-A53D-98B0960462DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE7747D8-BC4F-4945-A53D-98B0960462DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616885018.348562</real>
+			<key>timeStoppedRecording</key>
+			<real>616885100.12970495</real>
+			<key>title</key>
+			<string>Run kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>DE7747D8-BC4F-4945-A53D-98B0960462DD</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

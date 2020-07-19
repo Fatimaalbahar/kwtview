@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "b361fc9423ce02ac1c72a27d93ff791a"
+build_time: [1595145945, 687184000]
+inputs:
+  "/Users/fatimalbahar/Documents/GitHub/ios-cw-7/IOSClasswork7/IOSClasswork7/Model/MoviesDataModel.swift": [1593943648, 539632287]
+  "/Users/fatimalbahar/Documents/GitHub/ios-cw-7/IOSClasswork7/IOSClasswork7/viewController/MovieDetailsViewController.swift": [1593943123, 669068669]
+  "/Users/fatimalbahar/Documents/GitHub/ios-cw-7/IOSClasswork7/IOSClasswork7/viewController/MoviesTableVC.swift": [1593943648, 551505005]
+  "/Users/fatimalbahar/Documents/GitHub/ios-cw-7/IOSClasswork7/IOSClasswork7/AppDelegate.swift": [1593876811, 663537795]
+  "/Users/fatimalbahar/Documents/GitHub/ios-cw-7/IOSClasswork7/IOSClasswork7/SceneDelegate.swift": [1593876812, 20209824]

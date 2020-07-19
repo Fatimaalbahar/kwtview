@@ -18,9 +18,8 @@ class detailsPage: UITableViewCell {
         var contact: String
         
     }
-    /*
-var restaurantsData = [
-        restaurants(placeName:
-    ]
- */
+    
+    
+
+ 
 }

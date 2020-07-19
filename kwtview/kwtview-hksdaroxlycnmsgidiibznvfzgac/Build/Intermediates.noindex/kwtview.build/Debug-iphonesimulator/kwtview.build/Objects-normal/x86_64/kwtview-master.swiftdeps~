@@ -1,10 +1,14 @@
 version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
-options: "098cc4f6e13d6d1a47713dacf41e80f1"
-build_time: [1595094466, 269434000]
+options: "8a102abdc4e5fab2bbc6868e079c878a"
+build_time: [1595191317, 640807000]
 inputs:
   "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/ViewController.swift": [1594815970, 306940193]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/New Group/models.swift": [1595150531, 353707302]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/Pages/categoriesPage2.swift": [1595186476, 747711362]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/OptionsViewController.swift": [1595180804, 244885237]
   "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/AppDelegate.swift": [1594721994, 601423420]
-  "/Users/fatimalbahar/Documents/GitHub/kwtview/categoriesPage.swift": [1594842095, 14136431]
   "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/SceneDelegate.swift": [1594721994, 615999739]
-  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/optionsPage.swift": [1595094465, 985654133]
-  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/detailsPage.swift": !dirty [1595018543, 213029698]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/optionPage2.swift": [1595185746, 231263954]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/optios3.swift": [1595191317, 399613660]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/detailsPage2.swift": [1595190987, 960959303]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/detailsPage.swift": [1595153197, 146987103]
