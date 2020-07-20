@@ -7,7 +7,7 @@
 //
 
 import UIKit
-var selected : [categoryChosen1]!
+
 class categoriesPage2: UIViewController {
 
     override func viewDidLoad() {
@@ -17,51 +17,60 @@ class categoriesPage2: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    @IBAction func Restaurants(_ sender: UIButton) { performSegue(withIdentifier: "next", sender: Restaurants)
+    @IBAction func Restaurants(_ sender: UIButton) {
+        performSegue(withIdentifier: "next", sender: Restaurants1)
+        
     }
     
     @IBAction func Cafes(_ sender: UIButton) {
-     selected = Cafes1
-        performSegue(withIdentifier: "next", sender: nil)
+        performSegue(withIdentifier: "next", sender: Cafes1 )
     }
     
     @IBAction func ShoppingMalls(_ sender: UIButton) {
-        selected = ShoppingMalls1
-        performSegue(withIdentifier: "next", sender: nil)
+        performSegue(withIdentifier: "next", sender: ShoppingMalls1)
         
     }
     @IBAction func TouristAttractions(_ sender: UIButton) {
-        selected = TouristAttractions1
-        performSegue(withIdentifier: "next", sender: nil)
+        
+        performSegue(withIdentifier: "next", sender:TouristAttractions1 )
     }
     
     @IBAction func BeautySalons(_ sender: UIButton) {
-        selected = BeautySalons1
-        performSegue(withIdentifier: "next", sender: nil)
+       
+        performSegue(withIdentifier: "next", sender: BeautySalons1)
         
     }
     @IBAction func Gyms(_ sender: UIButton) {
-        selected = Gyms1
-        performSegue(withIdentifier: "next", sender: nil)
+        
+        performSegue(withIdentifier: "next", sender: Gyms1)
         
     }
     
     @IBAction func HotelsandResorts(_ sender: UIButton) {
-        selected = HotelsandResorts1
-        performSegue(withIdentifier: "next", sender: nil)
+      
+        performSegue(withIdentifier: "next", sender: HotelsandResorts1 )
     }
     
     @IBAction func Activities(_ sender: UIButton) {
-        selected = Activities1
-        performSegue(withIdentifier: "next", sender: nil)
+  
+        performSegue(withIdentifier: "next", sender: Activities1 )
     }
     @IBAction func LocalShops(_ sender: UIButton) {
-        selected = LocalShops1
-        performSegue(withIdentifier:"next", sender: nil)
+    
+        performSegue(withIdentifier:"next", sender: LocalShops1)
     }
-   
+   // MARK: - Navigation
+
+   // In a storyboard-based application, you will often want to do a little preparation before navigation
+   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+     let vc = segue.destination as! OptionsViewController
+    vc.selected = sender as! [categoryChosen1]
+    
+       // Get the new view controller using segue.destination.
+       // Pass the selected object to the new view controller.
         
 }
+
     /*
     // MARK: - Navigation
 
@@ -72,3 +81,4 @@ class categoriesPage2: UIViewController {
     }
     */
 
+}

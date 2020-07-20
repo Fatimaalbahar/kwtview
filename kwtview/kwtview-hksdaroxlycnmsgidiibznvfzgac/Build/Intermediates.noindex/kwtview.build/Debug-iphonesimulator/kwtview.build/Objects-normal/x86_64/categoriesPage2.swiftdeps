@@ -1,6 +1,5 @@
 ### Swift dependencies file v0 ###
 provides-top-level:
-- "selected"
 - "categoriesPage2"
 provides-nominal:
 - "7kwtview15categoriesPage2C"
@@ -16,23 +15,27 @@ provides-dynamic-lookup:
 - "Restaurants"
 - "ShoppingMalls"
 - "TouristAttractions"
+- "prepare"
 - "viewDidLoad"
 depends-top-level:
 - !private "Activities1"
 - "AssignmentPrecedence"
 - !private "BeautySalons1"
 - !private "Cafes1"
+- "CastingPrecedence"
 - !private "Gyms1"
 - !private "HotelsandResorts1"
 - !private "LocalShops1"
+- !private "OptionsViewController"
+- !private "Restaurants1"
 - !private "ShoppingMalls1"
 - !private "StringLiteralType"
 - !private "TouristAttractions1"
 - "UIButton"
+- "UIStoryboardSegue"
 - "UIViewController"
 - "categoriesPage2"
-- "categoryChosen1"
-- "selected"
+- !private "categoryChosen1"
 depends-member:
 - !private ["s7CVarArgP", "Activities1"]
 - !private ["s7CVarArgP", "BeautySalons1"]
@@ -40,10 +43,11 @@ depends-member:
 - !private ["s7CVarArgP", "Gyms1"]
 - !private ["s7CVarArgP", "HotelsandResorts1"]
 - !private ["s7CVarArgP", "LocalShops1"]
-- !private ["s7CVarArgP", "Restaurants"]
+- !private ["s7CVarArgP", "Restaurants1"]
 - !private ["s7CVarArgP", "ShoppingMalls1"]
 - !private ["s7CVarArgP", "TouristAttractions1"]
 - ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "destination"]
 - !private ["s7CVarArgP", "performSegue"]
 - !private ["s7CVarArgP", "selected"]
 - !private ["s7CVarArgP", "viewDidLoad"]
@@ -53,10 +57,11 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "Gyms1"]
 - !private ["s28CustomDebugStringConvertibleP", "HotelsandResorts1"]
 - !private ["s28CustomDebugStringConvertibleP", "LocalShops1"]
-- !private ["s28CustomDebugStringConvertibleP", "Restaurants"]
+- !private ["s28CustomDebugStringConvertibleP", "Restaurants1"]
 - !private ["s28CustomDebugStringConvertibleP", "ShoppingMalls1"]
 - !private ["s28CustomDebugStringConvertibleP", "TouristAttractions1"]
 - ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
 - !private ["s28CustomDebugStringConvertibleP", "performSegue"]
 - !private ["s28CustomDebugStringConvertibleP", "selected"]
 - !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
@@ -66,10 +71,11 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "Gyms1"]
 - !private ["s23CustomStringConvertibleP", "HotelsandResorts1"]
 - !private ["s23CustomStringConvertibleP", "LocalShops1"]
-- !private ["s23CustomStringConvertibleP", "Restaurants"]
+- !private ["s23CustomStringConvertibleP", "Restaurants1"]
 - !private ["s23CustomStringConvertibleP", "ShoppingMalls1"]
 - !private ["s23CustomStringConvertibleP", "TouristAttractions1"]
 - ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "destination"]
 - !private ["s23CustomStringConvertibleP", "performSegue"]
 - !private ["s23CustomStringConvertibleP", "selected"]
 - !private ["s23CustomStringConvertibleP", "viewDidLoad"]
@@ -79,10 +85,11 @@ depends-member:
 - !private ["SQ", "Gyms1"]
 - !private ["SQ", "HotelsandResorts1"]
 - !private ["SQ", "LocalShops1"]
-- !private ["SQ", "Restaurants"]
+- !private ["SQ", "Restaurants1"]
 - !private ["SQ", "ShoppingMalls1"]
 - !private ["SQ", "TouristAttractions1"]
 - ["SQ", ""]
+- !private ["SQ", "destination"]
 - !private ["SQ", "performSegue"]
 - !private ["SQ", "selected"]
 - !private ["SQ", "viewDidLoad"]
@@ -92,10 +99,11 @@ depends-member:
 - !private ["SH", "Gyms1"]
 - !private ["SH", "HotelsandResorts1"]
 - !private ["SH", "LocalShops1"]
-- !private ["SH", "Restaurants"]
+- !private ["SH", "Restaurants1"]
 - !private ["SH", "ShoppingMalls1"]
 - !private ["SH", "TouristAttractions1"]
 - ["SH", ""]
+- !private ["SH", "destination"]
 - !private ["SH", "performSegue"]
 - !private ["SH", "selected"]
 - !private ["SH", "viewDidLoad"]
@@ -105,7 +113,7 @@ depends-member:
 - !private ["So8NSCodingP", "Gyms1"]
 - !private ["So8NSCodingP", "HotelsandResorts1"]
 - !private ["So8NSCodingP", "LocalShops1"]
-- !private ["So8NSCodingP", "Restaurants"]
+- !private ["So8NSCodingP", "Restaurants1"]
 - !private ["So8NSCodingP", "ShoppingMalls1"]
 - !private ["So8NSCodingP", "TouristAttractions1"]
 - ["So8NSCodingP", ""]
@@ -118,7 +126,7 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "Gyms1"]
 - !private ["So26NSExtensionRequestHandlingP", "HotelsandResorts1"]
 - !private ["So26NSExtensionRequestHandlingP", "LocalShops1"]
-- !private ["So26NSExtensionRequestHandlingP", "Restaurants"]
+- !private ["So26NSExtensionRequestHandlingP", "Restaurants1"]
 - !private ["So26NSExtensionRequestHandlingP", "ShoppingMalls1"]
 - !private ["So26NSExtensionRequestHandlingP", "TouristAttractions1"]
 - ["So26NSExtensionRequestHandlingP", ""]
@@ -137,14 +145,20 @@ depends-member:
 - !private ["So8NSObjectC", "HotelsandResorts1"]
 - ["So8NSObjectC", "LocalShops"]
 - !private ["So8NSObjectC", "LocalShops1"]
+- !private ["So8NSObjectC", "OptionsViewController"]
 - ["So8NSObjectC", "Restaurants"]
+- !private ["So8NSObjectC", "Restaurants1"]
 - ["So8NSObjectC", "ShoppingMalls"]
 - !private ["So8NSObjectC", "ShoppingMalls1"]
 - ["So8NSObjectC", "TouristAttractions"]
 - !private ["So8NSObjectC", "TouristAttractions1"]
 - ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- !private ["So8NSObjectC", "categoryChosen1"]
+- !private ["So8NSObjectC", "destination"]
 - ["So8NSObjectC", "init"]
 - !private ["So8NSObjectC", "performSegue"]
+- ["So8NSObjectC", "prepare"]
 - !private ["So8NSObjectC", "selected"]
 - ["So8NSObjectC", "viewDidLoad"]
 - !private ["So8NSObjectP", "Activities1"]
@@ -153,20 +167,22 @@ depends-member:
 - !private ["So8NSObjectP", "Gyms1"]
 - !private ["So8NSObjectP", "HotelsandResorts1"]
 - !private ["So8NSObjectP", "LocalShops1"]
-- !private ["So8NSObjectP", "Restaurants"]
+- !private ["So8NSObjectP", "Restaurants1"]
 - !private ["So8NSObjectP", "ShoppingMalls1"]
 - !private ["So8NSObjectP", "TouristAttractions1"]
 - ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "destination"]
 - !private ["So8NSObjectP", "performSegue"]
 - !private ["So8NSObjectP", "selected"]
 - !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["7kwtview21OptionsViewControllerC", "selected"]
 - !private ["So21UIAppearanceContainerP", "Activities1"]
 - !private ["So21UIAppearanceContainerP", "BeautySalons1"]
 - !private ["So21UIAppearanceContainerP", "Cafes1"]
 - !private ["So21UIAppearanceContainerP", "Gyms1"]
 - !private ["So21UIAppearanceContainerP", "HotelsandResorts1"]
 - !private ["So21UIAppearanceContainerP", "LocalShops1"]
-- !private ["So21UIAppearanceContainerP", "Restaurants"]
+- !private ["So21UIAppearanceContainerP", "Restaurants1"]
 - !private ["So21UIAppearanceContainerP", "ShoppingMalls1"]
 - !private ["So21UIAppearanceContainerP", "TouristAttractions1"]
 - ["So21UIAppearanceContainerP", ""]
@@ -179,7 +195,7 @@ depends-member:
 - !private ["So18UIContentContainerP", "Gyms1"]
 - !private ["So18UIContentContainerP", "HotelsandResorts1"]
 - !private ["So18UIContentContainerP", "LocalShops1"]
-- !private ["So18UIContentContainerP", "Restaurants"]
+- !private ["So18UIContentContainerP", "Restaurants1"]
 - !private ["So18UIContentContainerP", "ShoppingMalls1"]
 - !private ["So18UIContentContainerP", "TouristAttractions1"]
 - ["So18UIContentContainerP", ""]
@@ -192,7 +208,7 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "Gyms1"]
 - !private ["So18UIFocusEnvironmentP", "HotelsandResorts1"]
 - !private ["So18UIFocusEnvironmentP", "LocalShops1"]
-- !private ["So18UIFocusEnvironmentP", "Restaurants"]
+- !private ["So18UIFocusEnvironmentP", "Restaurants1"]
 - !private ["So18UIFocusEnvironmentP", "ShoppingMalls1"]
 - !private ["So18UIFocusEnvironmentP", "TouristAttractions1"]
 - ["So18UIFocusEnvironmentP", ""]
@@ -205,7 +221,7 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "Gyms1"]
 - !private ["So30UIPasteConfigurationSupportingP", "HotelsandResorts1"]
 - !private ["So30UIPasteConfigurationSupportingP", "LocalShops1"]
-- !private ["So30UIPasteConfigurationSupportingP", "Restaurants"]
+- !private ["So30UIPasteConfigurationSupportingP", "Restaurants1"]
 - !private ["So30UIPasteConfigurationSupportingP", "ShoppingMalls1"]
 - !private ["So30UIPasteConfigurationSupportingP", "TouristAttractions1"]
 - ["So30UIPasteConfigurationSupportingP", ""]
@@ -224,14 +240,19 @@ depends-member:
 - !private ["So11UIResponderC", "HotelsandResorts1"]
 - ["So11UIResponderC", "LocalShops"]
 - !private ["So11UIResponderC", "LocalShops1"]
+- !private ["So11UIResponderC", "OptionsViewController"]
 - ["So11UIResponderC", "Restaurants"]
+- !private ["So11UIResponderC", "Restaurants1"]
 - ["So11UIResponderC", "ShoppingMalls"]
 - !private ["So11UIResponderC", "ShoppingMalls1"]
 - ["So11UIResponderC", "TouristAttractions"]
 - !private ["So11UIResponderC", "TouristAttractions1"]
 - ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- !private ["So11UIResponderC", "categoryChosen1"]
 - ["So11UIResponderC", "init"]
 - !private ["So11UIResponderC", "performSegue"]
+- ["So11UIResponderC", "prepare"]
 - !private ["So11UIResponderC", "selected"]
 - ["So11UIResponderC", "viewDidLoad"]
 - !private ["So30UIResponderStandardEditActionsP", "Activities1"]
@@ -240,7 +261,7 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "Gyms1"]
 - !private ["So30UIResponderStandardEditActionsP", "HotelsandResorts1"]
 - !private ["So30UIResponderStandardEditActionsP", "LocalShops1"]
-- !private ["So30UIResponderStandardEditActionsP", "Restaurants"]
+- !private ["So30UIResponderStandardEditActionsP", "Restaurants1"]
 - !private ["So30UIResponderStandardEditActionsP", "ShoppingMalls1"]
 - !private ["So30UIResponderStandardEditActionsP", "TouristAttractions1"]
 - ["So30UIResponderStandardEditActionsP", ""]
@@ -253,20 +274,21 @@ depends-member:
 - !private ["So16UIStateRestoringP", "Gyms1"]
 - !private ["So16UIStateRestoringP", "HotelsandResorts1"]
 - !private ["So16UIStateRestoringP", "LocalShops1"]
-- !private ["So16UIStateRestoringP", "Restaurants"]
+- !private ["So16UIStateRestoringP", "Restaurants1"]
 - !private ["So16UIStateRestoringP", "ShoppingMalls1"]
 - !private ["So16UIStateRestoringP", "TouristAttractions1"]
 - ["So16UIStateRestoringP", ""]
 - !private ["So16UIStateRestoringP", "performSegue"]
 - !private ["So16UIStateRestoringP", "selected"]
 - !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So17UIStoryboardSegueC", "destination"]
 - !private ["So18UITraitEnvironmentP", "Activities1"]
 - !private ["So18UITraitEnvironmentP", "BeautySalons1"]
 - !private ["So18UITraitEnvironmentP", "Cafes1"]
 - !private ["So18UITraitEnvironmentP", "Gyms1"]
 - !private ["So18UITraitEnvironmentP", "HotelsandResorts1"]
 - !private ["So18UITraitEnvironmentP", "LocalShops1"]
-- !private ["So18UITraitEnvironmentP", "Restaurants"]
+- !private ["So18UITraitEnvironmentP", "Restaurants1"]
 - !private ["So18UITraitEnvironmentP", "ShoppingMalls1"]
 - !private ["So18UITraitEnvironmentP", "TouristAttractions1"]
 - ["So18UITraitEnvironmentP", ""]
@@ -279,7 +301,7 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "Gyms1"]
 - !private ["So23UIUserActivityRestoringP", "HotelsandResorts1"]
 - !private ["So23UIUserActivityRestoringP", "LocalShops1"]
-- !private ["So23UIUserActivityRestoringP", "Restaurants"]
+- !private ["So23UIUserActivityRestoringP", "Restaurants1"]
 - !private ["So23UIUserActivityRestoringP", "ShoppingMalls1"]
 - !private ["So23UIUserActivityRestoringP", "TouristAttractions1"]
 - ["So23UIUserActivityRestoringP", ""]
@@ -298,15 +320,20 @@ depends-member:
 - !private ["So16UIViewControllerC", "HotelsandResorts1"]
 - ["So16UIViewControllerC", "LocalShops"]
 - !private ["So16UIViewControllerC", "LocalShops1"]
+- !private ["So16UIViewControllerC", "OptionsViewController"]
 - ["So16UIViewControllerC", "Restaurants"]
+- !private ["So16UIViewControllerC", "Restaurants1"]
 - ["So16UIViewControllerC", "ShoppingMalls"]
 - !private ["So16UIViewControllerC", "ShoppingMalls1"]
 - ["So16UIViewControllerC", "TouristAttractions"]
 - !private ["So16UIViewControllerC", "TouristAttractions1"]
 - ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
 - ["So16UIViewControllerC", ""]
+- !private ["So16UIViewControllerC", "categoryChosen1"]
 - ["So16UIViewControllerC", "init"]
 - !private ["So16UIViewControllerC", "performSegue"]
+- ["So16UIViewControllerC", "prepare"]
 - !private ["So16UIViewControllerC", "selected"]
 - ["So16UIViewControllerC", "viewDidLoad"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "Activities1"]
@@ -315,10 +342,11 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "Gyms1"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "HotelsandResorts1"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "LocalShops1"]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "Restaurants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Restaurants1"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "ShoppingMalls1"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "TouristAttractions1"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "selected"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
@@ -328,10 +356,11 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Gyms1"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HotelsandResorts1"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LocalShops1"]
-- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Restaurants"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Restaurants1"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ShoppingMalls1"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TouristAttractions1"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "destination"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "performSegue"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "selected"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
@@ -347,16 +376,20 @@ depends-member:
 - !private ["7kwtview15categoriesPage2C", "HotelsandResorts1"]
 - ["7kwtview15categoriesPage2C", "LocalShops"]
 - !private ["7kwtview15categoriesPage2C", "LocalShops1"]
+- !private ["7kwtview15categoriesPage2C", "OptionsViewController"]
 - ["7kwtview15categoriesPage2C", "Restaurants"]
+- !private ["7kwtview15categoriesPage2C", "Restaurants1"]
 - ["7kwtview15categoriesPage2C", "ShoppingMalls"]
 - !private ["7kwtview15categoriesPage2C", "ShoppingMalls1"]
 - ["7kwtview15categoriesPage2C", "TouristAttractions"]
 - !private ["7kwtview15categoriesPage2C", "TouristAttractions1"]
 - ["7kwtview15categoriesPage2C", "UIButton"]
+- ["7kwtview15categoriesPage2C", "UIStoryboardSegue"]
+- !private ["7kwtview15categoriesPage2C", "categoryChosen1"]
 - ["7kwtview15categoriesPage2C", "deinit"]
 - ["7kwtview15categoriesPage2C", "init"]
 - !private ["7kwtview15categoriesPage2C", "performSegue"]
-- !private ["7kwtview15categoriesPage2C", "selected"]
+- ["7kwtview15categoriesPage2C", "prepare"]
 - ["7kwtview15categoriesPage2C", "viewDidLoad"]
 depends-nominal:
 - "s7CVarArgP"
@@ -368,6 +401,7 @@ depends-nominal:
 - "So26NSExtensionRequestHandlingP"
 - "So8NSObjectC"
 - "So8NSObjectP"
+- !private "7kwtview21OptionsViewControllerC"
 - "So21UIAppearanceContainerP"
 - "So18UIContentContainerP"
 - "So18UIFocusEnvironmentP"
@@ -375,6 +409,7 @@ depends-nominal:
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
 - "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
 - "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"
 - "So16UIViewControllerC"
@@ -409,4 +444,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "060db7ba41801a64a43e82d08646a507"
+interface-hash: "2359519bd9b209ba9a16ee1829f6c521"

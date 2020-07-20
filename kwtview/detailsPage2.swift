@@ -45,8 +45,8 @@ import UIKit
             place(picture: #imageLiteral(resourceName: "zone7coffee"), placeName: "Zone7", openingTimes: "7AM-11PM", location: " 3, Ahmad Al Jaber Street Sharg Kuwait City block، Ahmad Al Jaber St, Kuwait City", contact: "@zone7.kw")
         ]
         
-    //Alhamra Tower
-        var AlhamraTower: [place] = [
+    //Alhamra
+        var Alhamra: [place] = [
             place(picture: #imageLiteral(resourceName: "alhamra"), placeName: "Alhamra Tower", openingTimes: "10AM-10PM", location: "159 St, Kuwait City", contact: "@alhamratower")
         ]
         
@@ -77,7 +77,7 @@ import UIKit
         ]
         //Sheikh Jaber AlAhmad Cultural Centre
         var SheikhJabeeAlAhmdCulturalCentere : [place] = [
-            place (picture: #imageLiteral(resourceName: "JACC"), placeName: "Sheikh Jaber AlAhmad Cultural Centre", openingTimes: "", location: "Arabiann Gulf Street", contact: "@jacc_kw")
+            place (picture: #imageLiteral(resourceName: "JACC"), placeName: "Sheikh Jaber AlAhmad Cultural Centre", openingTimes: "8AM-12AM", location: "Arabiann Gulf Street", contact: "@jacc_kw")
         ]
         
        //Glow Salon
@@ -138,7 +138,7 @@ import UIKit
         ]
         //Kuwait Riding Center
         var KuwaitRidingCenter: [place] = [
-            place(picture: #imageLiteral(resourceName: "krcstable"), placeName: "Kuwait Riding Center", openingTimes: "", location: "Sabhan", contact: "@kuwaitrc")
+            place(picture: #imageLiteral(resourceName: "krcstable"), placeName: "Kuwait Riding Center", openingTimes: "9AM-10PM", location: "Sabhan", contact: "@kuwaitrc")
         ]
         //Rafa Nadal Academy
         var RafaNadalAcademy :[place] = [

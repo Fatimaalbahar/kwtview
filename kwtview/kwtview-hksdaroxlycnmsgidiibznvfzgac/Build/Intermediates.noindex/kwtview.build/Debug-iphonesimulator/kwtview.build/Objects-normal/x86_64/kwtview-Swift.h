@@ -217,24 +217,28 @@ SWIFT_CLASS("_TtC7kwtview11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UILabel;
 @class UIImageView;
-@class UIButton;
+@class UILabel;
+@class UIStoryboardSegue;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC7kwtview21OptionsViewController")
 @interface OptionsViewController : UIViewController
 - (void)viewDidLoad;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label1;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified img0;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label0;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image0;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified img1;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label1;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified img3;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label3;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image3;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified img2;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified label2;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image2;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image1;
-- (IBAction)places:(UIButton * _Nonnull)sender;
+- (IBAction)b0:(id _Nonnull)sender;
+- (IBAction)b1:(id _Nonnull)sender;
+- (IBAction)b2:(id _Nonnull)sender;
+- (IBAction)b3:(id _Nonnull)sender;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -262,6 +266,7 @@ SWIFT_CLASS("_TtC7kwtview14ViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIButton;
 
 SWIFT_CLASS("_TtC7kwtview15categoriesPage2")
 @interface categoriesPage2 : UIViewController
@@ -275,6 +280,7 @@ SWIFT_CLASS("_TtC7kwtview15categoriesPage2")
 - (IBAction)HotelsandResorts:(UIButton * _Nonnull)sender;
 - (IBAction)Activities:(UIButton * _Nonnull)sender;
 - (IBAction)LocalShops:(UIButton * _Nonnull)sender;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -283,6 +289,18 @@ SWIFT_CLASS("_TtC7kwtview15categoriesPage2")
 SWIFT_CLASS("_TtC7kwtview11detailsPage")
 @interface detailsPage : UITableViewCell
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC7kwtview21detailsViewController")
+@interface detailsViewController : UIViewController
+- (void)viewDidLoad;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified image;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified location;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified contact;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified openinghours;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 

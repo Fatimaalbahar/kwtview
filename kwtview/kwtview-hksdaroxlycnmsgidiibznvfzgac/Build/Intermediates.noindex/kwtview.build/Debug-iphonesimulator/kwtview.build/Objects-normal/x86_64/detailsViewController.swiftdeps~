@@ -1,0 +1,443 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "detailsViewController"
+provides-nominal:
+- "7kwtview21detailsViewControllerC"
+provides-member:
+- ["7kwtview21detailsViewControllerC", ""]
+provides-dynamic-lookup:
+- "contact"
+- "details"
+- "image"
+- "location"
+- "openinghours"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "UIImageView"
+- "UILabel"
+- "UIViewController"
+- "categoryChosen1"
+- "detailsViewController"
+depends-member:
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "contact"]
+- !private ["s10ArraySliceV", "location"]
+- !private ["s10ArraySliceV", "openingTimes"]
+- !private ["s10ArraySliceV", "picture"]
+- !private ["SK", "contact"]
+- !private ["SK", "location"]
+- !private ["SK", "openingTimes"]
+- !private ["SK", "picture"]
+- !private ["SK", "subscript"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "contact"]
+- !private ["s7CVarArgP", "details"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "location"]
+- !private ["s7CVarArgP", "openinghours"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "contact"]
+- !private ["Sl", "location"]
+- !private ["Sl", "openingTimes"]
+- !private ["Sl", "picture"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "contact"]
+- !private ["10Foundation15ContiguousBytesP", "location"]
+- !private ["10Foundation15ContiguousBytesP", "openingTimes"]
+- !private ["10Foundation15ContiguousBytesP", "picture"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "contact"]
+- !private ["s28CustomDebugStringConvertibleP", "details"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "openingTimes"]
+- !private ["s28CustomDebugStringConvertibleP", "openinghours"]
+- !private ["s28CustomDebugStringConvertibleP", "picture"]
+- !private ["s28CustomDebugStringConvertibleP", "place"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "contact"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "location"]
+- !private ["s17CustomReflectableP", "openingTimes"]
+- !private ["s17CustomReflectableP", "picture"]
+- !private ["s17CustomReflectableP", "place"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "contact"]
+- !private ["s23CustomStringConvertibleP", "details"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "openingTimes"]
+- !private ["s23CustomStringConvertibleP", "openinghours"]
+- !private ["s23CustomStringConvertibleP", "picture"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "contact"]
+- !private ["10Foundation12DataProtocolP", "location"]
+- !private ["10Foundation12DataProtocolP", "openingTimes"]
+- !private ["10Foundation12DataProtocolP", "picture"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "image"]
+- !private ["Se", "place"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["SE", "image"]
+- !private ["SE", "place"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "contact"]
+- !private ["SQ", "details"]
+- !private ["SQ", "image"]
+- !private ["SQ", "location"]
+- !private ["SQ", "openingTimes"]
+- !private ["SQ", "openinghours"]
+- !private ["SQ", "picture"]
+- !private ["SQ", "place"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "contact"]
+- !private ["s25ExpressibleByArrayLiteralP", "location"]
+- !private ["s25ExpressibleByArrayLiteralP", "openingTimes"]
+- !private ["s25ExpressibleByArrayLiteralP", "picture"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "place"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["SH", ""]
+- !private ["SH", "contact"]
+- !private ["SH", "details"]
+- !private ["SH", "image"]
+- !private ["SH", "location"]
+- !private ["SH", "openingTimes"]
+- !private ["SH", "openinghours"]
+- !private ["SH", "picture"]
+- !private ["SH", "place"]
+- !private ["SH", "subscript"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s20LazySequenceProtocolP", "contact"]
+- !private ["s20LazySequenceProtocolP", "location"]
+- !private ["s20LazySequenceProtocolP", "openingTimes"]
+- !private ["s20LazySequenceProtocolP", "picture"]
+- !private ["SM", "contact"]
+- !private ["SM", "location"]
+- !private ["SM", "openingTimes"]
+- !private ["SM", "picture"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "contact"]
+- !private ["So8NSCodingP", "details"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "location"]
+- !private ["So8NSCodingP", "openinghours"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "contact"]
+- !private ["So26NSExtensionRequestHandlingP", "details"]
+- !private ["So26NSExtensionRequestHandlingP", "image"]
+- !private ["So26NSExtensionRequestHandlingP", "location"]
+- !private ["So26NSExtensionRequestHandlingP", "openinghours"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "categoryChosen1"]
+- ["So8NSObjectC", "contact"]
+- ["So8NSObjectC", "details"]
+- ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "location"]
+- ["So8NSObjectC", "openinghours"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "contact"]
+- !private ["So8NSObjectP", "details"]
+- !private ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "location"]
+- !private ["So8NSObjectP", "openinghours"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "image"]
+- !private ["Sq", "place"]
+- !private ["Sq", "text"]
+- !private ["Sk", "contact"]
+- !private ["Sk", "location"]
+- !private ["Sk", "openingTimes"]
+- !private ["Sk", "picture"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "contact"]
+- !private ["Sm", "location"]
+- !private ["Sm", "openingTimes"]
+- !private ["Sm", "picture"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "contact"]
+- !private ["ST", "location"]
+- !private ["ST", "openingTimes"]
+- !private ["ST", "picture"]
+- !private ["ST", "subscript"]
+- !private ["s5SliceV", "contact"]
+- !private ["s5SliceV", "location"]
+- !private ["s5SliceV", "openingTimes"]
+- !private ["s5SliceV", "picture"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "contact"]
+- !private ["So21UIAppearanceContainerP", "details"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "location"]
+- !private ["So21UIAppearanceContainerP", "openinghours"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "contact"]
+- !private ["So18UIContentContainerP", "details"]
+- !private ["So18UIContentContainerP", "image"]
+- !private ["So18UIContentContainerP", "location"]
+- !private ["So18UIContentContainerP", "openinghours"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "contact"]
+- !private ["So18UIFocusEnvironmentP", "details"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "location"]
+- !private ["So18UIFocusEnvironmentP", "openinghours"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "image"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "contact"]
+- !private ["So30UIPasteConfigurationSupportingP", "details"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "location"]
+- !private ["So30UIPasteConfigurationSupportingP", "openinghours"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "categoryChosen1"]
+- ["So11UIResponderC", "contact"]
+- ["So11UIResponderC", "details"]
+- ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "location"]
+- ["So11UIResponderC", "openinghours"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "contact"]
+- !private ["So30UIResponderStandardEditActionsP", "details"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "location"]
+- !private ["So30UIResponderStandardEditActionsP", "openinghours"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "contact"]
+- !private ["So16UIStateRestoringP", "details"]
+- !private ["So16UIStateRestoringP", "image"]
+- !private ["So16UIStateRestoringP", "location"]
+- !private ["So16UIStateRestoringP", "openinghours"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "contact"]
+- !private ["So18UITraitEnvironmentP", "details"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "location"]
+- !private ["So18UITraitEnvironmentP", "openinghours"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "contact"]
+- !private ["So23UIUserActivityRestoringP", "details"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- !private ["So23UIUserActivityRestoringP", "location"]
+- !private ["So23UIUserActivityRestoringP", "openinghours"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "categoryChosen1"]
+- ["So16UIViewControllerC", "contact"]
+- ["So16UIViewControllerC", "details"]
+- ["So16UIViewControllerC", "image"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "location"]
+- ["So16UIViewControllerC", "openinghours"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "contact"]
+- !private ["s14_ArrayProtocolP", "location"]
+- !private ["s14_ArrayProtocolP", "openingTimes"]
+- !private ["s14_ArrayProtocolP", "picture"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "contact"]
+- !private ["s24_DestructorSafeContainerP", "location"]
+- !private ["s24_DestructorSafeContainerP", "openingTimes"]
+- !private ["s24_DestructorSafeContainerP", "picture"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contact"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "details"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "location"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "openinghours"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "contact"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "details"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "location"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "openinghours"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "place"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["7kwtview15categoryChosen1V", "place"]
+- ["7kwtview21detailsViewControllerC", "UIImageView"]
+- ["7kwtview21detailsViewControllerC", "UILabel"]
+- ["7kwtview21detailsViewControllerC", "categoryChosen1"]
+- ["7kwtview21detailsViewControllerC", "contact"]
+- ["7kwtview21detailsViewControllerC", "deinit"]
+- ["7kwtview21detailsViewControllerC", "details"]
+- ["7kwtview21detailsViewControllerC", "image"]
+- ["7kwtview21detailsViewControllerC", "init"]
+- ["7kwtview21detailsViewControllerC", "location"]
+- ["7kwtview21detailsViewControllerC", "openinghours"]
+- ["7kwtview21detailsViewControllerC", "viewDidLoad"]
+- !private ["7kwtview5placeV", "contact"]
+- !private ["7kwtview5placeV", "location"]
+- !private ["7kwtview5placeV", "openingTimes"]
+- !private ["7kwtview5placeV", "picture"]
+depends-nominal:
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "s20LazySequenceProtocolP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "s5SliceV"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+- !private "7kwtview15categoryChosen1V"
+- "7kwtview21detailsViewControllerC"
+- !private "7kwtview5placeV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f80e1c15f46460d222f3409e89c73b64"

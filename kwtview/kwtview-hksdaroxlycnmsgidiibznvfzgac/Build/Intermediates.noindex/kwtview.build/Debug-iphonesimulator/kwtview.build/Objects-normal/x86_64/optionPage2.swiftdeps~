@@ -16,18 +16,55 @@ provides-member:
 - ["7kwtview15categoryChosen1V", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "ACMilanSoccerSchool"
 - "Activities1"
+- "AlFaresJewellry"
+- "AlOthmanFashion"
+- "Alhamra"
+- "AlsalhiyaComplex"
+- "Avenues"
 - "BeautySalons1"
+- "Bon"
 - "Cafes1"
+- "Chips"
+- "Concrete"
+- "Euphoria"
+- "FourSeasons"
+- "GlowSalon"
 - "Gyms1"
+- "Hilton"
 - "HotelsandResorts1"
+- "Hype"
+- "Jumeirah"
+- "KuwaitRidingCenter"
+- "KuwaitTowers"
+- "LittleRubys"
 - "LocalShops1"
+- "MadisonandHeig"
+- "Manicure"
+- "Mubarkiya"
+- "Ora"
+- "Peak"
+- "PinoFlowers"
+- "RafaNadalAcademy"
 - "Restaurants1"
+- "Rush"
+- "Sai"
+- "Shape"
+- "SheikhJabeeAlAhmdCulturalCentere"
+- "Sheraton"
 - "ShoppingMalls1"
+- "SidekickAcademy"
 - "String"
 - "StringLiteralType"
+- "ThreeSixtyMall"
 - "TouristAttractions1"
+- "WildCoffeeeBar"
 - "categoryChosen1"
+- "place"
+- "shaheedPark"
+- "viewfourteen"
+- "zone7"
 depends-member:
 - ["SK", "init"]
 - ["s7CVarArgP", "init"]
@@ -61,6 +98,7 @@ depends-member:
 - ["7kwtview15categoryChosen1V", "String"]
 - ["7kwtview15categoryChosen1V", "image"]
 - ["7kwtview15categoryChosen1V", "init"]
+- ["7kwtview15categoryChosen1V", "place"]
 - ["7kwtview15categoryChosen1V", "placeName"]
 depends-nominal:
 - "SK"
@@ -121,4 +159,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "6a8fb8d401bac63b55b7575965342160"
+interface-hash: "b9fd3f821eb9b9fef75fd607d82417bd"

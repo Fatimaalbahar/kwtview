@@ -1,4 +1,13 @@
 version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
 options: "f81ed4311c792ff7bd6829d45e1596ac"
-build_time: [1595147672, 259225000]
+build_time: [1595255709, 503274000]
 inputs:
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/ViewController.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/New Group/models.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/Pages/categoriesPage2.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/OptionsViewController.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/optionPage2.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/detailsPage2.swift": [9223372036, 854775807]
+  "/Users/fatimalbahar/Documents/GitHub/kwtview/kwtview/detailsPage.swift": [9223372036, 854775807]

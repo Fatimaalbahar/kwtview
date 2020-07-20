@@ -40,6 +40,584 @@
 			<key>uniqueIdentifier</key>
 			<string>1D6C42B2-09BD-4609-AE92-26A1140E33A7</string>
 		</dict>
+		<key>2A514FC0-A224-4645-B731-97A4C8239FBD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A514FC0-A224-4645-B731-97A4C8239FBD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616957314.484285</real>
+			<key>timeStoppedRecording</key>
+			<real>616957325.14890599</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>2A514FC0-A224-4645-B731-97A4C8239FBD</string>
+		</dict>
+		<key>38DB93F0-15E6-4800-83F6-F0FEEF1F39DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38DB93F0-15E6-4800-83F6-F0FEEF1F39DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955934.94540095</real>
+			<key>timeStoppedRecording</key>
+			<real>616955937.16284597</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>38DB93F0-15E6-4800-83F6-F0FEEF1F39DB</string>
+		</dict>
+		<key>40B3E134-0725-4FF7-8AD0-816BC4F2268F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40B3E134-0725-4FF7-8AD0-816BC4F2268F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616957725.46627796</real>
+			<key>timeStoppedRecording</key>
+			<real>616957730.01950395</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>40B3E134-0725-4FF7-8AD0-816BC4F2268F</string>
+		</dict>
+		<key>41398183-61A3-4681-8CC2-374C9E210997</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41398183-61A3-4681-8CC2-374C9E210997.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955850.78453898</real>
+			<key>timeStoppedRecording</key>
+			<real>616955853.15315902</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>41398183-61A3-4681-8CC2-374C9E210997</string>
+		</dict>
+		<key>41A4B401-2F4F-4C13-86CB-87342AA814DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41A4B401-2F4F-4C13-86CB-87342AA814DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616957554.47938395</real>
+			<key>timeStoppedRecording</key>
+			<real>616957556.19253194</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>41A4B401-2F4F-4C13-86CB-87342AA814DF</string>
+		</dict>
+		<key>430E37C2-9160-4575-98CA-2AE765DC02BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>430E37C2-9160-4575-98CA-2AE765DC02BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956581.15265203</real>
+			<key>timeStoppedRecording</key>
+			<real>616956586.65659297</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>430E37C2-9160-4575-98CA-2AE765DC02BB</string>
+		</dict>
+		<key>44B937E6-3C7B-49CB-8A48-DE7BA0464896</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44B937E6-3C7B-49CB-8A48-DE7BA0464896.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616885442.971012</real>
+			<key>timeStoppedRecording</key>
+			<real>616885461.09538901</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>44B937E6-3C7B-49CB-8A48-DE7BA0464896</string>
+		</dict>
+		<key>44FFA229-4E95-4D67-9D8A-C109D0E75706</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44FFA229-4E95-4D67-9D8A-C109D0E75706.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616948398.31908703</real>
+			<key>timeStoppedRecording</key>
+			<real>616948412.90334499</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>44FFA229-4E95-4D67-9D8A-C109D0E75706</string>
+		</dict>
+		<key>4D749767-DEDC-41E5-91B1-30A2EBE1B035</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D749767-DEDC-41E5-91B1-30A2EBE1B035.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955388.44680095</real>
+			<key>timeStoppedRecording</key>
+			<real>616955397.77646804</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>4D749767-DEDC-41E5-91B1-30A2EBE1B035</string>
+		</dict>
+		<key>5134ED15-649F-4BDB-BAAF-1057A7CA85FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5134ED15-649F-4BDB-BAAF-1057A7CA85FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616950600.44617605</real>
+			<key>timeStoppedRecording</key>
+			<real>616950600.76533401</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>5134ED15-649F-4BDB-BAAF-1057A7CA85FE</string>
+		</dict>
+		<key>55086C16-659C-4364-9CC1-7F872C1EC398</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55086C16-659C-4364-9CC1-7F872C1EC398.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616951432.73711002</real>
+			<key>timeStoppedRecording</key>
+			<real>616951442.65963995</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>55086C16-659C-4364-9CC1-7F872C1EC398</string>
+		</dict>
+		<key>58954DDA-D280-4529-B537-BF486041CC66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58954DDA-D280-4529-B537-BF486041CC66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616951743.55076599</real>
+			<key>timeStoppedRecording</key>
+			<real>616951748.15572298</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>58954DDA-D280-4529-B537-BF486041CC66</string>
+		</dict>
+		<key>5D519A02-0678-42E5-917C-09E7EA5DA9C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D519A02-0678-42E5-917C-09E7EA5DA9C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616957396.14102101</real>
+			<key>timeStoppedRecording</key>
+			<real>616957398.29574096</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>5D519A02-0678-42E5-917C-09E7EA5DA9C8</string>
+		</dict>
+		<key>5E0BC055-4779-4D60-89EE-745284E59CDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E0BC055-4779-4D60-89EE-745284E59CDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616951858.41140699</real>
+			<key>timeStoppedRecording</key>
+			<real>616951862.36698997</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>5E0BC055-4779-4D60-89EE-745284E59CDE</string>
+		</dict>
+		<key>5E3FDC65-4B04-40D4-8313-13DE36437D8A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E3FDC65-4B04-40D4-8313-13DE36437D8A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616957625.36939895</real>
+			<key>timeStoppedRecording</key>
+			<real>616957626.05043197</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>5E3FDC65-4B04-40D4-8313-13DE36437D8A</string>
+		</dict>
+		<key>6FFB8CCC-60EA-4D12-BB51-BB8B3A68F73A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6FFB8CCC-60EA-4D12-BB51-BB8B3A68F73A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956731.05178106</real>
+			<key>timeStoppedRecording</key>
+			<real>616956734.08041298</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>6FFB8CCC-60EA-4D12-BB51-BB8B3A68F73A</string>
+		</dict>
+		<key>71373293-669B-4F40-A062-3B9515CCF232</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71373293-669B-4F40-A062-3B9515CCF232.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616957681.37668896</real>
+			<key>timeStoppedRecording</key>
+			<real>616957689.33726299</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>71373293-669B-4F40-A062-3B9515CCF232</string>
+		</dict>
 		<key>7821A17B-7310-4647-B169-32B390BE7E2C</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +651,74 @@
 			<string>Build kwtview</string>
 			<key>uniqueIdentifier</key>
 			<string>7821A17B-7310-4647-B169-32B390BE7E2C</string>
+		</dict>
+		<key>79A6983E-9BA3-4AEA-AD10-A315EC6B517E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>79A6983E-9BA3-4AEA-AD10-A315EC6B517E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616886577.27313304</real>
+			<key>timeStoppedRecording</key>
+			<real>616886599.96396399</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>79A6983E-9BA3-4AEA-AD10-A315EC6B517E</string>
+		</dict>
+		<key>7C02A8BD-4AB9-488A-A7FA-DA463CCA58EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C02A8BD-4AB9-488A-A7FA-DA463CCA58EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616948535.01780498</real>
+			<key>timeStoppedRecording</key>
+			<real>616948539.06601095</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>7C02A8BD-4AB9-488A-A7FA-DA463CCA58EE</string>
 		</dict>
 		<key>89F8836A-C893-4CA1-80F4-23FFF28D4F4B</key>
 		<dict>
@@ -108,6 +754,108 @@
 			<key>uniqueIdentifier</key>
 			<string>89F8836A-C893-4CA1-80F4-23FFF28D4F4B</string>
 		</dict>
+		<key>8D7CD03E-CBAF-4E08-BADF-C75A333C12C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D7CD03E-CBAF-4E08-BADF-C75A333C12C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616953263.97583401</real>
+			<key>timeStoppedRecording</key>
+			<real>616953273.50208902</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>8D7CD03E-CBAF-4E08-BADF-C75A333C12C9</string>
+		</dict>
+		<key>8FB0C797-B856-44A3-94FF-060A8F8B7E83</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FB0C797-B856-44A3-94FF-060A8F8B7E83.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616946535.29657304</real>
+			<key>timeStoppedRecording</key>
+			<real>616946548.81528699</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>8FB0C797-B856-44A3-94FF-060A8F8B7E83</string>
+		</dict>
+		<key>97213680-CF83-4AEE-96B5-DF4BCCE86296</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97213680-CF83-4AEE-96B5-DF4BCCE86296.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956683.38504303</real>
+			<key>timeStoppedRecording</key>
+			<real>616956685.06514502</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>97213680-CF83-4AEE-96B5-DF4BCCE86296</string>
+		</dict>
 		<key>A0AFD2E2-B0E0-4169-B226-9AEA0C16FFCB</key>
 		<dict>
 			<key>className</key>
@@ -142,6 +890,380 @@
 			<key>uniqueIdentifier</key>
 			<string>A0AFD2E2-B0E0-4169-B226-9AEA0C16FFCB</string>
 		</dict>
+		<key>A48560D6-29D0-4E0F-BD7E-9692483A3371</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A48560D6-29D0-4E0F-BD7E-9692483A3371.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955365.950845</real>
+			<key>timeStoppedRecording</key>
+			<real>616955367.66188502</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>A48560D6-29D0-4E0F-BD7E-9692483A3371</string>
+		</dict>
+		<key>A48E36B9-0584-4E82-A823-60D19A1EF172</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A48E36B9-0584-4E82-A823-60D19A1EF172.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616951649.56799197</real>
+			<key>timeStoppedRecording</key>
+			<real>616951654.63924098</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>A48E36B9-0584-4E82-A823-60D19A1EF172</string>
+		</dict>
+		<key>A9DEE78A-D20A-4F79-9875-D5122B63EFCF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9DEE78A-D20A-4F79-9875-D5122B63EFCF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616950617.61311698</real>
+			<key>timeStoppedRecording</key>
+			<real>616950617.92958105</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>A9DEE78A-D20A-4F79-9875-D5122B63EFCF</string>
+		</dict>
+		<key>AD0AB224-B89E-4F94-B33B-F56F5BA93A19</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD0AB224-B89E-4F94-B33B-F56F5BA93A19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616887274.91600895</real>
+			<key>timeStoppedRecording</key>
+			<real>616887277.950562</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>AD0AB224-B89E-4F94-B33B-F56F5BA93A19</string>
+		</dict>
+		<key>AEC0D660-F96C-491D-B687-87E9B12A835A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AEC0D660-F96C-491D-B687-87E9B12A835A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616952743.13975406</real>
+			<key>timeStoppedRecording</key>
+			<real>616952744.47877598</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>AEC0D660-F96C-491D-B687-87E9B12A835A</string>
+		</dict>
+		<key>B424DE4D-7D13-49E6-A4E5-01406F734096</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B424DE4D-7D13-49E6-A4E5-01406F734096.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955759.55644798</real>
+			<key>timeStoppedRecording</key>
+			<real>616955762.38632596</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>B424DE4D-7D13-49E6-A4E5-01406F734096</string>
+		</dict>
+		<key>BA911D91-7EB9-4C7B-B169-780497DF3250</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA911D91-7EB9-4C7B-B169-780497DF3250.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956220.29424095</real>
+			<key>timeStoppedRecording</key>
+			<real>616956221.92096901</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>BA911D91-7EB9-4C7B-B169-780497DF3250</string>
+		</dict>
+		<key>BF085518-158A-46EB-B7C0-AEF2F63D1EAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF085518-158A-46EB-B7C0-AEF2F63D1EAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616952467.30100405</real>
+			<key>timeStoppedRecording</key>
+			<real>616952476.87552297</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>BF085518-158A-46EB-B7C0-AEF2F63D1EAF</string>
+		</dict>
+		<key>C0AFC22B-C539-4566-934A-52C7F95B2535</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0AFC22B-C539-4566-934A-52C7F95B2535.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616886980.56322002</real>
+			<key>timeStoppedRecording</key>
+			<real>616886993.73345006</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>C0AFC22B-C539-4566-934A-52C7F95B2535</string>
+		</dict>
+		<key>C8F7E8FF-9FE4-49F3-9712-29BA4AD267CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8F7E8FF-9FE4-49F3-9712-29BA4AD267CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956643.27351797</real>
+			<key>timeStoppedRecording</key>
+			<real>616956650.54823995</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>C8F7E8FF-9FE4-49F3-9712-29BA4AD267CE</string>
+		</dict>
+		<key>D81805C7-F07E-4E53-BB91-42E064245540</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D81805C7-F07E-4E53-BB91-42E064245540.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955382.92615902</real>
+			<key>timeStoppedRecording</key>
+			<real>616955383.38108504</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>D81805C7-F07E-4E53-BB91-42E064245540</string>
+		</dict>
 		<key>E13C3BDC-56A2-4517-9819-7CA9519045F1</key>
 		<dict>
 			<key>className</key>
@@ -175,6 +1297,312 @@
 			<string>Build kwtview</string>
 			<key>uniqueIdentifier</key>
 			<string>E13C3BDC-56A2-4517-9819-7CA9519045F1</string>
+		</dict>
+		<key>E269945C-7905-4C39-AF30-B0CB28EFD510</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E269945C-7905-4C39-AF30-B0CB28EFD510.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616950545.55481195</real>
+			<key>timeStoppedRecording</key>
+			<real>616950556.43103898</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>E269945C-7905-4C39-AF30-B0CB28EFD510</string>
+		</dict>
+		<key>E43C648F-496E-4185-95F1-3EE12844B144</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E43C648F-496E-4185-95F1-3EE12844B144.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616955798.78076398</real>
+			<key>timeStoppedRecording</key>
+			<real>616955798.85813701</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>E43C648F-496E-4185-95F1-3EE12844B144</string>
+		</dict>
+		<key>E59AA50A-708C-420B-B4ED-AABF46F2710A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E59AA50A-708C-420B-B4ED-AABF46F2710A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616952076.02225995</real>
+			<key>timeStoppedRecording</key>
+			<real>616952084.98640001</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>E59AA50A-708C-420B-B4ED-AABF46F2710A</string>
+		</dict>
+		<key>EBAA3E98-6AA1-4E55-BA2B-7E8E591A523A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EBAA3E98-6AA1-4E55-BA2B-7E8E591A523A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616948509.02950895</real>
+			<key>timeStoppedRecording</key>
+			<real>616948522.29382205</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>EBAA3E98-6AA1-4E55-BA2B-7E8E591A523A</string>
+		</dict>
+		<key>F2713AA0-990D-466D-806A-054F77876AAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2713AA0-990D-466D-806A-054F77876AAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956920.83683395</real>
+			<key>timeStoppedRecording</key>
+			<real>616956922.41484404</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>F2713AA0-990D-466D-806A-054F77876AAA</string>
+		</dict>
+		<key>F4C1006D-3322-454C-B9AD-A09C04486757</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4C1006D-3322-454C-B9AD-A09C04486757.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616956210.914891</real>
+			<key>timeStoppedRecording</key>
+			<real>616956211.49243796</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>F4C1006D-3322-454C-B9AD-A09C04486757</string>
+		</dict>
+		<key>F7479DC0-0AE4-48C2-B75E-C42AB2DDAC66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7479DC0-0AE4-48C2-B75E-C42AB2DDAC66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616950459.34511101</real>
+			<key>timeStoppedRecording</key>
+			<real>616950460.24659503</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>F7479DC0-0AE4-48C2-B75E-C42AB2DDAC66</string>
+		</dict>
+		<key>FC78D39C-8930-4F75-850B-55DC90B2FCE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC78D39C-8930-4F75-850B-55DC90B2FCE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616954896.17603195</real>
+			<key>timeStoppedRecording</key>
+			<real>616954906.10522604</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>FC78D39C-8930-4F75-850B-55DC90B2FCE5</string>
+		</dict>
+		<key>FF50C631-B547-4224-99FB-4CEC9AF47293</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF50C631-B547-4224-99FB-4CEC9AF47293.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>kwtview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>kwtview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build kwtview</string>
+			<key>timeStartedRecording</key>
+			<real>616887121.91250801</real>
+			<key>timeStoppedRecording</key>
+			<real>616887136.00727999</real>
+			<key>title</key>
+			<string>Build kwtview</string>
+			<key>uniqueIdentifier</key>
+			<string>FF50C631-B547-4224-99FB-4CEC9AF47293</string>
 		</dict>
 	</dict>
 </dict>

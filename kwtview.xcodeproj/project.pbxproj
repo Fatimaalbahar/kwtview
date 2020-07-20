@@ -21,6 +21,7 @@
 		D97D8D2E24C3A49200FEF6F5 /* categoriesPage2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97D8D2D24C3A49200FEF6F5 /* categoriesPage2.swift */; };
 		D98524C524C1FEF400EB324D /* detailsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98524C424C1FEF400EB324D /* detailsPage.swift */; };
 		D9E38C5724C4BC1A004FEB65 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E38C5624C4BC1A004FEB65 /* OptionsViewController.swift */; };
+		D9EC54F324C5E3CD00705524 /* detailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EC54F224C5E3CD00705524 /* detailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		D97D8D2D24C3A49200FEF6F5 /* categoriesPage2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = categoriesPage2.swift; sourceTree = "<group>"; };
 		D98524C424C1FEF400EB324D /* detailsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsPage.swift; sourceTree = "<group>"; };
 		D9E38C5624C4BC1A004FEB65 /* OptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
+		D9EC54F224C5E3CD00705524 /* detailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				D928D8B824BDBE4A0017BC34 /* SceneDelegate.swift */,
 				D97D8D2A24C3A2FA00FEF6F5 /* Pages */,
 				D928D8BC24BDBE4A0017BC34 /* Main.storyboard */,
+				D9EC54F224C5E3CD00705524 /* detailsViewController.swift */,
 				D98524C424C1FEF400EB324D /* detailsPage.swift */,
 				D928D8BA24BDBE4A0017BC34 /* ViewController.swift */,
 				D97D8D2124C3744D00FEF6F5 /* detailsPage2.swift */,
@@ -294,6 +297,7 @@
 				D97D8D2E24C3A49200FEF6F5 /* categoriesPage2.swift in Sources */,
 				D9E38C5724C4BC1A004FEB65 /* OptionsViewController.swift in Sources */,
 				D928D8B724BDBE4A0017BC34 /* AppDelegate.swift in Sources */,
+				D9EC54F324C5E3CD00705524 /* detailsViewController.swift in Sources */,
 				D928D8B924BDBE4A0017BC34 /* SceneDelegate.swift in Sources */,
 				D97D8D2424C3754800FEF6F5 /* optionPage2.swift in Sources */,
 				D97D8D2224C3744D00FEF6F5 /* detailsPage2.swift in Sources */,
